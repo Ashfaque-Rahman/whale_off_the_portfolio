@@ -1,1 +1,2 @@
-# whale_off_the_portfolio
+## whale_off_the_portfolio
+An analysis notebook that analyzes and visualizes the major metrics of the portfolios across volatility, returns, risk, and Sharpe ratios, and determine which portfolio outperformed the others using historical daily returns of several portfolios like algorithmic, 'whale" investors and big hedge and mutual funds portfolios. A custom portfolio will also be created using this analysis to compare it's performance to other existing portfolios as well as the larger market (S&P TSX 60 Index).
